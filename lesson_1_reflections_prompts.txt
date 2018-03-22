@@ -1,0 +1,36 @@
+I will give my reflection with an example:
+if one version works and the other doesn't,
+it means that in the differences
+found between the two files there is what makes one file to work.
+
+*What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved,
+like Google Docs does?
+ pros: you decide to commit following a unifying logic in terms of functionality.
+ contras: you may forget to commit.
+
+ *Why do you think some version control systems, like Git, allow saving multiple
+ files in one commit, while others, like Google Docs, treat each file separately
+
+ Because in programing is very frequent to use several files at the same time,
+ they are kind of liked with each other.
+
+ *How can you use the commands git log and git diff to view the history of files?
+ git log shows all the commits. Then, to see what it has been done in
+ individual commits, we can use git diff and compare it with the previous one
+ to see what is new.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+repositories have several commits.
+clone operates on repositories
+diff operates on commits.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+*How might using version control make you more confident to make changes
+that could break something?
+ Given that I always can comeback and reestablish a previous version, I can make
+ mistakes and always return to a bugless spot.
+
+ *Now that you have your workspace set up, what do you want to try using Git for?
+To use the version control program in a easier and better way.
