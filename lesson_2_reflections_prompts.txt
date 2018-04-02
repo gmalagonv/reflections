@@ -19,4 +19,8 @@ Branches can be helpful when:
 -new versions of the code while I want to keep the original version. This new
 version will evolve but itself.
 
-***
+**How do the diagrams help you visualize the branch structure?
+ given that as branching commits makes all the repository quite complex, the
+ diagrams display a graphical representation of the repository helping to see
+ where the heads are, and where we are in relation to them.
+   
