@@ -26,7 +26,11 @@ version will evolve but itself.
 
 **What is the result of merging two branches together? Why do we represent it
 in the diagram the way we do?
-
-the result is to have a final commit where the changes(in relation to the last
+The result is to have a final commit where the changes(in relation to the last
 common parent) of both branches show up. We represent it in the way that we do
-for the origin of each commit to be clear.   
+for the origin of each commit to be clear.
+
+**What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+the pros of the automatic one is the time, it's easy and quick, Git is able to
+realize when there is a conflict and only then prompt the manual.
