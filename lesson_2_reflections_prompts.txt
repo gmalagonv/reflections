@@ -23,4 +23,10 @@ version will evolve but itself.
  given that as branching commits makes all the repository quite complex, the
  diagrams display a graphical representation of the repository helping to see
  where the heads are, and where we are in relation to them.
-   
+
+**What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+the result is to have a final commit where the changes(in relation to the last
+common parent) of both branches show up. We represent it in the way that we do
+for the origin of each commit to be clear.   
