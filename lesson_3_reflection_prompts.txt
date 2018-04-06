@@ -13,4 +13,10 @@ are working in.
 fork: used when you want to copy a repositry from a GitHub account to another
 GitHub account.
 clone: when you copy a repository from GitHub to a local machine.
-branch: it is a bifurcation crated in a repository in a local machine. 
+branch: it is a bifurcation crated in a repository in a local machine.
+
+**What is the benefit of having a copy of the last known state of the remote
+  stored locally?
+  By this you can easily compare it with the last commit. That is particularly
+  important if you are off-line, by this you can know in what state is the shared
+  version.
