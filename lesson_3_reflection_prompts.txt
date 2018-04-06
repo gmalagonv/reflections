@@ -1,9 +1,16 @@
 **When would you want to use a remote repository rather than keeping all your work local?
-  When there are several contributors to the same project.
+When there are several contributors to the same project.
 
 **Why might you want to always pull changes manually rather than having Git
   automatically stay up-to-date with your remote repository?
-  Given that the repositories in the remote are mainly for sharing and
-  collaborating, it may happen that what you commit because it is a logical change
-  for you, it is not a logical change in the spirit of the whole project that you
-  are working in.       
+Given that the repositories in the remote are mainly for sharing and
+collaborating, it may happen that what you commit because it is a logical change
+for you, it is not a logical change in the spirit of the whole project that you
+are working in.
+
+ **Describe the differences between forks, clones, and branches.
+   When would you use one instead of another?
+fork: used when you want to copy a repositry from a GitHub account to another
+GitHub account.
+clone: when you copy a repository from GitHub to a local machine.
+branch: it is a bifurcation crated in a repository in a local machine. 
