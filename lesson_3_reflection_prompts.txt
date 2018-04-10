@@ -20,3 +20,9 @@ branch: it is a bifurcation crated in a repository in a local machine.
   By this you can easily compare it with the last commit. That is particularly
   important if you are off-line, by this you can know in what state is the shared
   version.
+
+**How would you collaborate without using Git or GitHub? What would be easier,
+  and what would be harder?
+We could use dropbox or sharing by email with the collaborators the changes in
+the code. Easier: we would be dealing with a single file and a single version of
+it. Harder: track who and why a given collaborator made a change in the file. 
