@@ -25,4 +25,11 @@ branch: it is a bifurcation crated in a repository in a local machine.
   and what would be harder?
 We could use dropbox or sharing by email with the collaborators the changes in
 the code. Easier: we would be dealing with a single file and a single version of
-it. Harder: track who and why a given collaborator made a change in the file. 
+it. Harder: track who and why a given collaborator made a change in the file.
+
+**When would you want to make changes in a separate branch rather than directly
+  in master? What benefits does each approach have?
+when changes are experimental or when you are collaborating with somebody else
+and it's safer to make a new branch than later can be checked by the others who
+are collaborating. Changes in a new branch have the advantage that the master
+will remain the same. 
